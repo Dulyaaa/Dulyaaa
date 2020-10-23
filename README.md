@@ -18,8 +18,8 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulya-Perera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Dulya's github stats](https://github-readme-stats.vercel.app/api/?username=Dulya-Perera&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulyaaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Dulya's github stats](https://github-readme-stats.vercel.app/api/?username=Dulyaaa&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff) 
 
 
 </div>
