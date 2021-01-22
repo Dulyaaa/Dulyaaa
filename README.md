@@ -15,7 +15,7 @@
 - 👯 Let's collaborate on create cool `Mobile App`.
 - ⚡ Fun fact: I'm a `funny` 🤔
 - 💭 Let's get to know each other 🌟
-- ⚔ My Motivation: 
+- ⚔ My Motivation: `I will fail 1000 times... 10,000 times. But never quit. There is a reason why I start. Falling 1000 times mean I learn 1000 new things.` 💣 
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
