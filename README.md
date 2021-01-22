@@ -15,6 +15,7 @@
 - 👯 Let's collaborate on create cool `Mobile App`.
 - ⚡ Fun fact: I'm a `funny` 🤔
 - 💭 Let's get to know each other 🌟
+- ⚔ My Motivation: 
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
