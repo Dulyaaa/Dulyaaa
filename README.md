@@ -11,7 +11,7 @@
 
 - 👩🏻 Pronouns: `she/her`
 - 🔭 Currently working on something cool.
-- 🌱 Learning `React.js`, `Android`, `flutter`.
+- 🌱 Learning `React.js`, `React Native`, `Android`, `flutter`.
 - 👯 Let's collaborate on create cool `Mobile App`.
 - ⚡ Fun fact: I'm a `funny` 🤔
 - 💭 Let's get to know each other 🌟
