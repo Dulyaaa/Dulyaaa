@@ -19,12 +19,10 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Dulyaaa&show_icons=true&theme=synthwave" alt="Dulyaaa" /> 
-<img align="right" height="300px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=Dulyaaa&theme=synthwave">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dulyaaa&show_icons=true&theme=synthwave" alt="Dulyaaa" /> 
+<img align="center" height="400px" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=Dulyaaa&theme=synthwave">
 </p>
-<p align="left">
 <!-- <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulyaaa&theme=synthwave"> -->
-</p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Dulyaaa&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 
 <!--
