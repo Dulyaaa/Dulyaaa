@@ -24,7 +24,6 @@
 </p>
 <!-- <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulyaaa&theme=synthwave"> -->
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Dulyaaa&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB"> -->
- -->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulyaaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Dulya's github stats](https://github-readme-stats.vercel.app/api/?username=Dulyaaa&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff) -->
