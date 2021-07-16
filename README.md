@@ -23,7 +23,7 @@
 <img align="center" height="400px" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=Dulyaaa&theme=synthwave">
 </p>
 <!-- <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulyaaa&theme=synthwave"> -->
-<img src="https://activity-graph.herokuapp.com/graph?username=Dulyaaa&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Dulyaaa&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB"> -->
  -->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulyaaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
