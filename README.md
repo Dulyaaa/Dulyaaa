@@ -18,6 +18,19 @@
 - ⚔ Inspiration: `I will fail 1000 times... 10,000 times. But never quit. There is a reason why I start. Failing 1000 times mean I learn 1000 new things.` 💣 
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+<!-- <a href="https://github.com/Dulyaaa/E-commerce_mobile_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dulyaaa&repo=E-commerce_mobile_app&title_color=ffffff&text_color=c9cacc&icon_color=4B7BF5&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Dulyaaa/Library-Management-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dulyaaa&repo=Library-Management-System&title_color=ffffff&text_color=c9cacc&icon_color=4B7BF5&bg_color=1d1f21" />
+</a> 
+<a href="https://github.com/Dulyaaa/Property_Management_System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dulyaaa&repo=Property_Management_System&title_color=ffffff&text_color=c9cacc&icon_color=4B7BF5&bg_color=1d1f21" />
+</a>  
+<a href="https://github.com/Dulyaaa/Guess_The_Number_Android_App_Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dulyaaa&repo=Guess_The_Number_Android_App_Game&title_color=ffffff&text_color=c9cacc&icon_color=4B7BF5&bg_color=1d1f21" />
+</a>    -->
 <!-- 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dulyaaa&show_icons=true&theme=synthwave" alt="Dulyaaa" /> 
 <img align="center" height="400px" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=Dulyaaa&theme=synthwave">
