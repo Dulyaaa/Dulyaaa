@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<h3> 👩🏻 Dulya Perera| 👩🏻‍💻 Software Engineer | 🌏 Sri Lanka </h3>
+<h3> 👧 Dulya Perera| 💻 Software Engineer | 🌏 Sri Lanka </h3>
 </div>
 
 ### :octocat: About me 
