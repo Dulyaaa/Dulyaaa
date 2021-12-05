@@ -13,7 +13,7 @@
 - 🔭 Currently working on something cool.
 - 🌱 Learning `React.js`, `React Native`, `Android`, `flutter`.
 - 👯 Let's collaborate on create cool `Mobile App`.
-- ⚡ Fun fact: I'm a `funny` 🤔
+- ⚡ Fun fact: I'm `funny` 🤔
 - 💭 Let's get to know each other 🌟
 - ⚔ Inspiration: `I will fail 1000 times... 10,000 times. But never quit. There is a reason why I start. Failing 1000 times mean I learn 1000 new things.` 💣 
 
