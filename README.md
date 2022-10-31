@@ -4,10 +4,14 @@
 
 
 <div align="center">
-<h3> 👩 Dulya Perera | 💻 Software Engineer | 🌏 Sri Lanka </h3>
+<h3> 👩 Dulya Perera | 💻 Software Engineer | 🌏 Sri Lanka </h3>  
 </div>
 
 ### :octocat: About me 
+
+<div align="center">
+  
+</div>
 
 - 👩🏻 Pronouns: `she/her`
 - 🔭 Currently working on something cool.
@@ -15,9 +19,15 @@
 - 👯 Let's collaborate on create cool `Mobile App`.
 - ⚡ Fun fact: I'm `funny` 🤔
 - 💭 Let's get to know each other 🌟
-- ⚔ Inspiration: `I will fail 1000 times... 10,000 times. But never quit. There is a reason why I start. Failing 1000 times mean I learn 1000 new things.` 💣 
+- ⚔ Inspiration: `I will fail 1000 times... 10,000 times. But never quit. There is a reason why I start. Failing 1000 times mean I learned 1000++ new things.` 💣 
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+<div align="center">
+<hr / width="50px">
+  <h4>I am a continuous learner. Learning for me equates to exploring new ideas and growing as an individual. I just cannot imagine my life devoid of designing and being creative. I freely express my creativity and imagination by designing and developing. I also love to travel and freezing the moments I relish.</h4>
+</div>
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
 
 <!-- <a href="https://github.com/Dulyaaa/E-commerce_mobile_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dulyaaa&repo=E-commerce_mobile_app&title_color=ffffff&text_color=c9cacc&icon_color=4B7BF5&bg_color=1d1f21" />
