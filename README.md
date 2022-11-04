@@ -28,6 +28,8 @@
 </div>
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
+[![@dulyaaa's Holopin board](https://holopin.me/dulyaaa)](https://holopin.io/@dulyaaa)
+
 
 <!-- <a href="https://github.com/Dulyaaa/E-commerce_mobile_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dulyaaa&repo=E-commerce_mobile_app&title_color=ffffff&text_color=c9cacc&icon_color=4B7BF5&bg_color=1d1f21" />
