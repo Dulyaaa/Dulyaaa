@@ -28,7 +28,7 @@
 </div>
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-[![@dulyaaa's Holopin board](https://holopin.me/dulyaaa)](https://holopin.io/@dulyaaa)
+<!-- [![@dulyaaa's Holopin board](https://holopin.me/dulyaaa)](https://holopin.io/@dulyaaa) -->
 
 
 <!-- <a href="https://github.com/Dulyaaa/E-commerce_mobile_app">
